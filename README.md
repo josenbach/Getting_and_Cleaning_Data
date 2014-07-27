@@ -1,4 +1,4 @@
-Getting_and_Cleaning_Data
+Getting and Cleaning Data
 =========================
 
 This repository contains my solution for the course project in the Coursera Getting and Cleaning Data course by Jeff Leek, Ph.D., Brian Caffo, Ph.D., & Roger D. Peng, Ph.D. of the Johns Hopkins Bloomberg School of Public Health (https://www.coursera.org/course/getdata).
